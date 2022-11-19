@@ -1,35 +1,30 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1 ,CCTV-2高清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
-#EXTINF:-1 ,CCTV-3超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1 ,CCTV-4超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 ,CCTV-5超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 ,CCTV-5+超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1 ,CCTV-6超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-#EXTINF:-1 ,CCTV-7超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-#EXTINF:-1 ,CCTV-8超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-#EXTINF:-1 ,CCTV-9超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-#EXTINF:-1 ,CCTV-10超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 ,CCTV-11超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 ,CCTV-12超清
-http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
-#EXTINF:-1 ,CCTV-13超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 ,CCTV-14超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 ,CCTV-15超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 ,CCTV-NEWS
-http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合
+http://tv.cnbeijing.xyz/tvnx.php?id=001
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经
+http://tv.cnbeijing.xyz/tvnx.php?id=002
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=003
+#EXTINF:-1 group-title="WZYTV",CCTV-4中文国际
+http://tv.cnbeijing.xyz/tvnx.php?id=004
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育
+http://tv.cnbeijing.xyz/tvnx.php?id=005
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影
+http://tv.cnbeijing.xyz/tvnx.php?id=006
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业
+http://tv.cnbeijing.xyz/tvnx.php?id=007
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧
+http://tv.cnbeijing.xyz/tvnx.php?id=008
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录
+http://tv.cnbeijing.xyz/tvnx.php?id=009
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教
+http://tv.cnbeijing.xyz/tvnx.php?id=010
+#EXTINF:-1 group-title="WZYTV",CCTV-11戏曲
+http://tv.cnbeijing.xyz/tvnx.php?id=011
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法
+http://tv.cnbeijing.xyz/tvnx.php?id=012
+#EXTINF:-1 group-title="WZYTV",CCTV-13新闻
+http://tv.cnbeijing.xyz/tvnx.php?id=013
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿
+http://tv.cnbeijing.xyz/tvnx.php?id=015
